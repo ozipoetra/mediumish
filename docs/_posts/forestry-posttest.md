@@ -2,7 +2,7 @@
 tags: []
 title: Forestry PostTest
 date: 2022-08-10 01:49:00 +0700
-author: ''
+author: Ozi Saputra
 featuredimg: "/assets/img/sal.jpg"
 summary: 'Hi World '
 
