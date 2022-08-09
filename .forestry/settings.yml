@@ -19,10 +19,10 @@ sections:
   templates:
   - page
 upload_dir: docs/.vuepress/public/assets/img
-public_path: "/assets/img"
+public_path: "/docs/.vuepress/public/img"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":filename:-:year:-:month:-:day:"
 build:
   preview_output_directory: docs/.vuepress/public
   install_dependencies_command: yarn
